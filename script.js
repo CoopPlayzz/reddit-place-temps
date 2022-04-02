@@ -2,12 +2,13 @@
 // @name         r/place template
 // @namespace    https://github.com/CoopPlayzz/reddit-place-temps/
 // @namespace    https://github.com/burritosoftware/burritosoftware.github.io/
-// @version      2.1
+// @version      2.2
 // @description  try to take over the canvas! og: for beatsaber logo | NOTE: This is modified by coop
 // @author       oralekin, LittleEndu, CoopPlayzz
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/CoopPlayzz/reddit-place-temps/master/script.js
 // ==/UserScript==
 // options
 var url = ""// leave empty if using github
