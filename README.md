@@ -1,1 +1,3 @@
-# reddit-place-temps
+# r/place templates
+
+## bsmg copied from burritosoftware
