@@ -1,3 +1,4 @@
 # r/place templates
 
-## bsmg copied from burritosoftware
+## Credits
+ - bsmg copied from burritosoftware
